@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.css">
+   
+</head>
+<body >
+<div id="a" class="container-fluid  " >
+<center><div class="title "><h id="h1" class="container  text text-light  fs-1"><b> Calculator </b></h></div></center>
+<div id="a1"class="container rounded " >
+    
+   <center>   <input id="result" class="rounded"  type="text" style="width:308px ;" placeholder="Enter" class="form-control"></center>  
+   
+
+<div class="calc-button-row">
+    <button  id="seven"  onclick="displayNum(7)">7</button>
+    <button id="eight"  onclick="displayNum(8)">8</button>
+    <button id="nine"  onclick="displayNum(9)">9</button>
+    <button id="mul"  onclick="displayNum('*')" class="option">*</button><br>
+    <button id="four"  onclick="displayNum(4)">4</button>
+    <button id="five"  onclick="displayNum(5)">5</button>
+    
+    <button id="six"  onclick="displayNum(6)">6</button>
+    <button id="sub"  onclick="displayNum('-')" class="option">-</button><br>
+    <button id="one"  onclick="displayNum(1)">1</button>
+    <button id="two"  onclick="displayNum(2)">2</button>
+    <button id="three"  onclick="displayNum(3)">3</button>
+    <button id="add"  onclick="displayNum('+')" class="option">+</button><br>
+    <button id="ac"  onclick="clearBox()" class="ac">AC</button>
+    <button id="zero"  onclick="displayNum(0)" class="option">0</button>
+    <button id="div"  onclick="displayNum('/')" class="option">/</button>
+    <button id="equal"  onclick="evaluateExpression()" class="option">=</button><br>
+    <button id="del"  onclick="removeLastItem()" >&#9003;</button>
+    
+
+</div>
+</div>
+</div>
+
+</body>
+
+<script src="./script.js"></script>
+
+</html>

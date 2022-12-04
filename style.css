@@ -1,0 +1,148 @@
+#a{
+    background-color: blueviolet;
+    height: 1000px;
+}
+#a2{
+    border: 1px solid blue;
+    padding-left: 114px;
+   
+}
+#a1{
+    background-color:rgb(129, 122, 122);
+width: 338px;
+margin-top: 19px;
+}
+#mul{
+    margin-left:3px;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#nine{
+   
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+#eight{
+    
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+#seven{
+    margin-left:1px ;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+
+#sub{
+    margin-left:3px;
+    width: 68px;
+    height: 58px; background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#six{
+   
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+#five{
+    
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+#four{
+    margin-left:1px ;
+    width: 68px;
+    height: 58px; background-color: brown;
+    color: aliceblue;
+
+    
+}
+
+ #add{
+    margin-left:3px;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#three{
+   
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+#two{
+    
+    width: 68px;
+    height: 58px; background-color: brown;
+    color: aliceblue;
+}
+#one{
+    margin-left:1px ;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: aliceblue;
+}
+   
+#equal{
+    margin-left:3px;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#div{
+   
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#zero{
+    
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#del{
+    margin-left:1px ;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+    
+}
+#ac{
+    margin-left:1px ;
+    width: 68px;
+    height: 58px;
+    background-color: brown;
+    color: rgb(245, 74, 31);
+}
+#space{
+    margin-left: 1px;
+    width: 215px;
+    height: 58px;
+    background-color:rgb(129, 122, 122);
+}
+.title{
+    padding-top: 69px;
+}
